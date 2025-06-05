@@ -1,5 +1,5 @@
 function downloadCV() {
-  window.open("documents/CV_MOHD_RAIHAN.doc", "_blank");
+  window.open("/CV_MOHD_RAIHAN.doc", "_blank");
 }
 
 function toggleDarkMode() {
